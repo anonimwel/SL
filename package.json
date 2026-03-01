@@ -1,0 +1,21 @@
+{
+  "name": "sl",
+  "displayName": "Space launcher",
+  "version": "1.26.01",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
